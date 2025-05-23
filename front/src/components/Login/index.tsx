@@ -16,7 +16,7 @@ export default function Login() {
           <div className="bg-white rounded-2xl p-6 md:p-8 shadow-xl">
             <div className="mb-6 flex justify-center">
               <img
-                src="/images/logo/logo.png"
+                src="/images/Logo/logo.png"
                 alt="Logo"
                 className="h-14 md:h-16 object-contain"
               />
